@@ -18,4 +18,4 @@ const themeLight = createMuiTheme({
   }
 })
 
-export default { themeDark, themeLight }
+export  { themeDark, themeLight }
