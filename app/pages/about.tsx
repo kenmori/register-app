@@ -8,17 +8,9 @@ export default function Index(){
       <Typography variant="h3" component="h1" gutterBottom>
        <div><p>Hello World!</p></div>
       </Typography>
-      <Link href="/about">
+      <Link href="/">
          <Button variant="contained" color="primary">
-           Got to about page
-         </Button>
-      </Link>
-      </Box>
-
-      <Box my={4}>
-      <Link href="/list">
-         <Button variant="contained" color="primary">
-           to list Page
+           Got to index page
          </Button>
       </Link>
       </Box>
